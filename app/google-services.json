@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202690090219",
+    "firebase_url": "https://testappt-ea32e.firebaseio.com",
+    "project_id": "testappt-ea32e",
+    "storage_bucket": "testappt-ea32e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202690090219:android:a150d1dd9361a36dcc9aae",
+        "android_client_info": {
+          "package_name": "com.jindal.testappt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202690090219-0693761ravtb6bhs6mkdshrotebn6qsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jindal.testappt",
+            "certificate_hash": "9c5f2405e0e0d7579006fb63860ca5f80c0e288a"
+          }
+        },
+        {
+          "client_id": "202690090219-bjpnqfth39iivmii6ct5ln11egbfuuj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP_-8t0B9ett_zyqR93ThSyV-BR0-DQoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202690090219-bjpnqfth39iivmii6ct5ln11egbfuuj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
